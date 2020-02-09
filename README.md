@@ -16,6 +16,56 @@ Press Facebook
 ```bash
 pip install numpy
 ```
+```python
+print("Hello World!")
+```
+
+```java
+public class StackArray {
+
+    /**
+     * Main method
+     *
+     * @param args Command line arguments
+     */
+    public static void main(String[] args) {
+        // Declare a stack of maximum size 4
+        StackArray myStackArray = new StackArray(4);
+
+        // Populate the stack
+        myStackArray.push(5);
+        myStackArray.push(8);
+        myStackArray.push(2);
+        myStackArray.push(9);
+
+        System.out.println("*********************Stack Array Implementation*********************");
+        System.out.println(myStackArray.isEmpty()); // will print false
+        System.out.println(myStackArray.isFull()); // will print true
+        System.out.println(myStackArray.peek()); // will print 9
+        System.out.println(myStackArray.pop()); // will print 9
+        System.out.println(myStackArray.peek()); // will print 2
+    }
+```
+
+```php
+<?php 
+	$db['db_host']='localhost';
+	$db['db_user']='root';
+	$db['db_pass']='';
+	$db['db_name']='song_institute';
+
+	foreach($db as $key => $value){
+		define(strtoupper($key),$value);
+	}
+	$connect = mysqli_connect(DB_HOST,DB_USER,DB_PASS,DB_NAME);
+
+	// if($connect){
+	// 	echo "Successfully Connected";
+	// }else{
+	// 	echo "Failed";
+	// }
+ ?>
+```
 
 ## Usage
 
