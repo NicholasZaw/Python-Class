@@ -1,12 +1,14 @@
-# numpy
+# Python Documentation
 
-## numpy
+## Python Version 3.7.5
 
-### numpy
+### Lecture from Save In Your Brain
 
 Numpy is A Python Library for dealing with numerical useful python package.
 
-Use the package manager [numpy](https://pip.pypa.io/en/stable/) to install numpy package. [Google](google.com)
+Use the package manager 
+[Python](https://www.python.org/)
+[numpy](https://pip.pypa.io/en/stable/) to install numpy package. [Google](google.com)
 Press Facebook
 [Facebook](www.facebook.com)
 []()
@@ -66,5 +68,6 @@ Please make sure to update tests as appropriate.
 !character
 #string
 ```
+[Zaw Lin Htet](https://www.facebook.com/zawlinhtet.nicholas)
 
 [MIT](https://choosealicense.com/licenses/mit/)
