@@ -78,9 +78,6 @@ numpy.singularize('phenomena') # returns 'phenomenon'
 
 ![alt text](https://www.stellaandchewys.com/wp-content/uploads/maplechristmas.jpg)
 ![alt_sloth](https://static01.nyt.com/images/2014/01/28/science/28SLOT_SPAN/28SLOT-jumbo.jpg)
-![alt_ironman](https://www.sideshow.com/storage/product-images/300172/iron-man-mark-iii_marvel_gallery_5c4d13c2e744e.jpg)
-
-<img src="https://www.sideshow.com/storage/product-images/300172/iron-man-mark-iii_marvel_gallery_5c4d13c2e744e.jpg" alt="ironman" width="300px" height="300px">
 
 ## Contributing
 
@@ -113,21 +110,6 @@ Please make sure to update tests as appropriate.
 +text in green
 !text in orange
 #text in grey
-```
-
-```diff
--Red
-+Green
-!Orange
-#Grey
-&Anonymous
-@Anonymous
-%Anonymous
-|Anonymous
-/Anonymous
-\Anonymous
-?Anonymous
-*Anonymous
 ```
 
 ```diff
